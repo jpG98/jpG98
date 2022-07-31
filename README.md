@@ -1,4 +1,4 @@
-## oi, meu nome e joão gustavo estudo na etec registro é tenho 16y
+## bom dia ou boa noite, jão na voz tenho 16y é cabo.
 <div align="center">
   <a href="https://github.com/jpG98">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jpG98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
