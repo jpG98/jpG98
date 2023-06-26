@@ -1,4 +1,4 @@
-## bom dia ou boa noite, jão na voz tenho 16y é cabo.
+## bom dia ou boa noite, jão na voz tenho 17y é cabo.
 ## CAVALO
 <div align="center">
   <a href="https://github.com/jpG98">
