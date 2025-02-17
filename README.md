@@ -1,4 +1,4 @@
-## bom dia ou boa noite, jão na voz tenho 17y é cabo.
+## bom dia ou boa noite, jão na voz tenho 18y é cabo.
 <div align="center">
   <a href="https://github.com/jpG98">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jpG98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
